@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: OAuth2DemoProject
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: Ov23lioc3SPz7VTZnnZu
+            client-secret: cb93ad68c4f73423767ecc1a24dbd8c9447e2177
+
+server:
+  port: 8000
+
+
